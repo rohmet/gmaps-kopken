@@ -1,0 +1,14 @@
+{
+    "model_type": "TF-IDF + OneVsRest SVM",
+    "overall_micro_f1": 0.9380385720147723,
+    "overall_macro_f1": 0.9145799949592546,
+    "aspects_evaluated": [
+        "aspek_rasa",
+        "aspek_harga",
+        "aspek_pelayanan",
+        "aspek_kecepatan",
+        "aspek_kebersihan",
+        "aspek_stok",
+        "aspek_aplikasi"
+    ]
+}

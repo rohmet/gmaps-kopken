@@ -1,0 +1,86 @@
+{
+  "dataset": {
+    "total_samples": 2927,
+    "train_samples": 2341,
+    "test_samples": 586,
+    "class_distribution": {
+      "positive": 2301,
+      "negative": 498,
+      "neutral": 128
+    }
+  },
+  "svm_baseline": {
+    "accuracy": 0.8549488054607508,
+    "classification_report": {
+      "negative": {
+        "precision": 0.6428571428571429,
+        "recall": 0.72,
+        "f1-score": 0.6792452830188679,
+        "support": 100.0
+      },
+      "neutral": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 25.0
+      },
+      "positive": {
+        "precision": 0.9470198675496688,
+        "recall": 0.93058568329718,
+        "f1-score": 0.9387308533916849,
+        "support": 461.0
+      },
+      "accuracy": 0.8549488054607508,
+      "macro avg": {
+        "precision": 0.5299590034689373,
+        "recall": 0.5501952277657267,
+        "f1-score": 0.5393253788035176,
+        "support": 586.0
+      },
+      "weighted avg": {
+        "precision": 0.8547130942425112,
+        "recall": 0.8549488054607508,
+        "f1-score": 0.8544017947362688,
+        "support": 586.0
+      }
+    }
+  },
+  "indobert": {
+    "accuracy": 0.8703071672354948,
+    "classification_report": {
+      "negative": {
+        "precision": 0.6608695652173913,
+        "recall": 0.76,
+        "f1-score": 0.7069767441860465,
+        "support": 100.0
+      },
+      "neutral": {
+        "precision": 0.2727272727272727,
+        "recall": 0.24,
+        "f1-score": 0.2553191489361702,
+        "support": 25.0
+      },
+      "positive": {
+        "precision": 0.9532293986636972,
+        "recall": 0.928416485900217,
+        "f1-score": 0.9406593406593406,
+        "support": 461.0
+      },
+      "accuracy": 0.8703071672354948,
+      "macro avg": {
+        "precision": 0.6289420788694536,
+        "recall": 0.6428054953000722,
+        "f1-score": 0.6343184112605191,
+        "support": 586.0
+      },
+      "weighted avg": {
+        "precision": 0.8743069814400773,
+        "recall": 0.8703071672354948,
+        "f1-score": 0.871543701682534,
+        "support": 586.0
+      }
+    },
+    "epochs": 3,
+    "model_name": "indobenchmark/indobert-base-p1"
+  }
+}

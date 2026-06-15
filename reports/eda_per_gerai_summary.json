@@ -1,0 +1,247 @@
+{
+    "total_reviews_all_outlets": 2926,
+    "total_outlets": 24,
+    "outlets_stats": [
+        {
+            "nama_gerai": "Kopi Kenangan - Kota Kasablanka",
+            "total_review": 257,
+            "avg_rating": 4.1400778210116735,
+            "avg_word_count": 9.443579766536965,
+            "pct_negative": 15.17509727626459,
+            "pct_neutral": 5.836575875486381,
+            "pct_positive": 78.98832684824903,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RCVeteran(DriveThru)",
+            "total_review": 250,
+            "avg_rating": 3.928,
+            "avg_word_count": 9.2,
+            "pct_negative": 20.8,
+            "pct_neutral": 7.199999999999999,
+            "pct_positive": 72.0,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-CentralPark2",
+            "total_review": 205,
+            "avg_rating": 4.073170731707317,
+            "avg_word_count": 8.521951219512195,
+            "pct_negative": 17.073170731707318,
+            "pct_neutral": 4.390243902439024,
+            "pct_positive": 78.53658536585367,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoJoglo",
+            "total_review": 187,
+            "avg_rating": 4.165775401069519,
+            "avg_word_count": 9.454545454545455,
+            "pct_negative": 17.11229946524064,
+            "pct_neutral": 4.81283422459893,
+            "pct_positive": 78.07486631016043,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RawaBelongJakarta",
+            "total_review": 153,
+            "avg_rating": 4.052287581699346,
+            "avg_word_count": 10.973856209150327,
+            "pct_negative": 20.915032679738562,
+            "pct_neutral": 5.88235294117647,
+            "pct_positive": 73.20261437908496,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoPuriBeta",
+            "total_review": 142,
+            "avg_rating": 4.197183098591549,
+            "avg_word_count": 8.80281690140845,
+            "pct_negative": 16.901408450704224,
+            "pct_neutral": 4.225352112676056,
+            "pct_positive": 78.87323943661971,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-UrbanHubPalmerah",
+            "total_review": 138,
+            "avg_rating": 4.246376811594203,
+            "avg_word_count": 10.101449275362318,
+            "pct_negative": 15.942028985507244,
+            "pct_neutral": 4.3478260869565215,
+            "pct_positive": 79.71014492753623,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-BlokMPlaza(LG)",
+            "total_review": 135,
+            "avg_rating": 4.192592592592592,
+            "avg_word_count": 11.066666666666666,
+            "pct_negative": 17.77777777777778,
+            "pct_neutral": 3.7037037037037033,
+            "pct_positive": 78.51851851851852,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-PosPengumbenJakartaBarat",
+            "total_review": 131,
+            "avg_rating": 4.3893129770992365,
+            "avg_word_count": 10.49618320610687,
+            "pct_negative": 12.977099236641221,
+            "pct_neutral": 3.816793893129771,
+            "pct_positive": 83.20610687022901,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoBendunganHilir(FCK)",
+            "total_review": 125,
+            "avg_rating": 3.88,
+            "avg_word_count": 11.432,
+            "pct_negative": 25.6,
+            "pct_neutral": 5.6000000000000005,
+            "pct_positive": 68.8,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoSawahBesar",
+            "total_review": 125,
+            "avg_rating": 4.584,
+            "avg_word_count": 9.744,
+            "pct_negative": 8.799999999999999,
+            "pct_neutral": 1.6,
+            "pct_positive": 89.60000000000001,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoIrHJuanda3Jakarta",
+            "total_review": 116,
+            "avg_rating": 4.689655172413793,
+            "avg_word_count": 6.163793103448276,
+            "pct_negative": 5.172413793103448,
+            "pct_neutral": 3.4482758620689653,
+            "pct_positive": 91.37931034482759,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoLebakBulus",
+            "total_review": 107,
+            "avg_rating": 4.018691588785047,
+            "avg_word_count": 9.457943925233645,
+            "pct_negative": 18.69158878504673,
+            "pct_neutral": 4.672897196261682,
+            "pct_positive": 76.63551401869158,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-SetiabudiJakartaSelatan",
+            "total_review": 98,
+            "avg_rating": 4.1938775510204085,
+            "avg_word_count": 10.561224489795919,
+            "pct_negative": 19.387755102040817,
+            "pct_neutral": 0.0,
+            "pct_positive": 80.61224489795919,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoKrendang",
+            "total_review": 95,
+            "avg_rating": 4.326315789473684,
+            "avg_word_count": 9.010526315789473,
+            "pct_negative": 14.736842105263156,
+            "pct_neutral": 4.2105263157894735,
+            "pct_positive": 81.05263157894737,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-HosCokroaminotoCiledug",
+            "total_review": 93,
+            "avg_rating": 4.311827956989247,
+            "avg_word_count": 8.913978494623656,
+            "pct_negative": 17.20430107526882,
+            "pct_neutral": 2.1505376344086025,
+            "pct_positive": 80.64516129032258,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoPecenonganJakartaPusat",
+            "total_review": 91,
+            "avg_rating": 4.362637362637362,
+            "avg_word_count": 10.384615384615385,
+            "pct_negative": 14.285714285714285,
+            "pct_neutral": 1.098901098901099,
+            "pct_positive": 84.61538461538461,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoSabangJakartaPusat",
+            "total_review": 86,
+            "avg_rating": 4.546511627906977,
+            "avg_word_count": 9.709302325581396,
+            "pct_negative": 10.465116279069768,
+            "pct_neutral": 1.1627906976744187,
+            "pct_positive": 88.37209302325581,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoPuriUtamaCipondoh",
+            "total_review": 76,
+            "avg_rating": 4.434210526315789,
+            "avg_word_count": 9.986842105263158,
+            "pct_negative": 13.157894736842104,
+            "pct_neutral": 2.631578947368421,
+            "pct_positive": 84.21052631578947,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RafflesSquareJuandaJakarta",
+            "total_review": 74,
+            "avg_rating": 3.864864864864865,
+            "avg_word_count": 11.18918918918919,
+            "pct_negative": 27.027027027027028,
+            "pct_neutral": 1.3513513513513513,
+            "pct_positive": 71.62162162162163,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoGreenville",
+            "total_review": 73,
+            "avg_rating": 3.452054794520548,
+            "avg_word_count": 10.205479452054794,
+            "pct_negative": 36.986301369863014,
+            "pct_neutral": 2.73972602739726,
+            "pct_positive": 60.273972602739725,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoMeruyaSelatanJakarta",
+            "total_review": 67,
+            "avg_rating": 4.2388059701492535,
+            "avg_word_count": 11.388059701492537,
+            "pct_negative": 14.925373134328357,
+            "pct_neutral": 7.462686567164178,
+            "pct_positive": 77.61194029850746,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-RukoCiledugMencong",
+            "total_review": 65,
+            "avg_rating": 4.3538461538461535,
+            "avg_word_count": 8.384615384615385,
+            "pct_negative": 13.846153846153847,
+            "pct_neutral": 4.615384615384616,
+            "pct_positive": 81.53846153846153,
+            "confidence_level": "High"
+        },
+        {
+            "nama_gerai": "KopiKenangan-PlazaBintaroSatoe(Superindo)",
+            "total_review": 37,
+            "avg_rating": 4.027027027027027,
+            "avg_word_count": 9.027027027027026,
+            "pct_negative": 13.513513513513514,
+            "pct_neutral": 18.91891891891892,
+            "pct_positive": 67.56756756756756,
+            "confidence_level": "High"
+        }
+    ],
+    "low_confidence_outlets": []
+}
